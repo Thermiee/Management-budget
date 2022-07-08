@@ -1,73 +1,49 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
+# Management-budget
+This is a mobile web application where you can manage your budget whereby you have a list of transactions associated with a category, so that users can see how much money they spent and on what they spent their money on.
 
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## Splash screen
+![](./app_screenshot.png)
 
 
-## Getting Started
+## Clone Project
+- STEP 1:
+  - git clone `git@github.com:Thermiee/Management-budget.git`
+- STEP 2:
+  - `cd management-budget` in your terminal
+- STEP 3:
+  - run `rails server` or `rails s` in your terminal
+- STEP 4:
+  - visit `localhost:3000` on your browser
+> Yeyyy you have the app running **Congratulations** 😅🎉
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## Run test suits
+  > rspec spec
 
+## Technologies Used
+* Language (Ruby on Rails)
+* PostgreSQL
 
-To get a local copy up and running follow these simple example steps.
+## Installation
+* Ruby
+* Rails
+* Postgresql
 
-### Prerequisites
+## 👤 Author 
+Emmanuel Jolugbo
+- GitHub: [Thermiee](https://github.com/Thermiee)
+- LinkedIn: [Emmanuel Jolugbo](https://www.linkedin.com/in/emmanuel-jolugbo/)
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+## Contributing :handshake:
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
-
-Give a ⭐️ if you like this project!
+Give a :star: if you like this project.
 
 ## Acknowledgments
+* Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=). Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+* Microverse
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+## License :memo:
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed
