@@ -8,26 +8,40 @@ This is a mobile web application where you can manage your budget whereby you ha
 
 ## Clone Project
 - STEP 1:
+```
   - git clone `git@github.com:Thermiee/Management-budget.git`
+```
 - STEP 2:
+```
   - `cd management-budget` in your terminal
+```
 - STEP 3:
+```
   - run `rails server` or `rails s` in your terminal
+```
 - STEP 4:
+```
   - visit `localhost:3000` on your browser
+```
 > Yeyyy you have the app running **Congratulations** 😅🎉
 
 ## Run test suits
+```
   > rspec spec
+```
 
 ## Technologies Used
+```
 * Language (Ruby on Rails)
 * PostgreSQL
+```
 
 ## Installation
+```
 * Ruby
 * Rails
 * Postgresql
+```
 
 ## 👤 Author 
 Emmanuel Jolugbo
